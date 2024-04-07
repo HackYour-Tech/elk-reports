@@ -4,10 +4,10 @@
     "report_data": {
         "all_time": {
             "totals": {
-                "users": 71661,
-                "passwords": 71661,
-                "ips": 71661,
-                "locations": 71661
+                "users": 71662,
+                "passwords": 71662,
+                "ips": 71662,
+                "locations": 71662
             },
             "top_values": {
                 "users": [
@@ -264,7 +264,7 @@
                         "Vietnam": 813
                     },
                     {
-                        "South Korea": 809
+                        "South Korea": 810
                     },
                     {
                         "Japan": 778
@@ -322,10 +322,10 @@
         },
         "weekly": {
             "totals": {
-                "users": 56233,
-                "passwords": 56233,
-                "ips": 56233,
-                "locations": 56233
+                "users": 56234,
+                "passwords": 56234,
+                "ips": 56234,
+                "locations": 56234
             },
             "top_values": {
                 "users": [
@@ -450,7 +450,7 @@
                         "Vietnam": 430
                     },
                     {
-                        "South Korea": 368
+                        "South Korea": 369
                     },
                     {
                         "Bulgaria": 185
